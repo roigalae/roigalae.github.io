@@ -9,7 +9,7 @@ body {
 }
 
 .bg-Green { 
-    background-color: #1abc9c; /* Green */
+    background-color: #066855; /* Green */
     color: #ffffff;
 }
 
@@ -46,7 +46,10 @@ h3 span {  font-size: 18px !important;  }
 
 .fonsi46  {  font-size: 46px !important;  }
 .fonsi36  {  font-size: 36px !important;  }
+.fonsi30  {  font-size: 30px !important;  }
+.fonsi28  {  font-size: 28px !important;  }
 .fonsi26  {  font-size: 26px !important;  }
+.fonsi24  {  font-size: 24px !important;  }
 .fonsi23  {  font-size: 23px !important;  }
 .fonsi20  {  font-size: 20px !important;  }
 .fonsi18  {  font-size: 18px !important;  }
