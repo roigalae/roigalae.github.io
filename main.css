@@ -1,0 +1,125 @@
+html,body { height:100%; padding:0; margin:0; }
+
+body {
+    font: 16px Ubuntu, sans-serif !important; 
+    line-height: 1.8 !important; 
+    color: #f5f6f7 !important; 
+    background-repeat: repeat !important; 
+    background-image: url("./shat.gif") !important; 
+    background-position: top left !important; 
+    background-color: #47d3ff;
+}
+
+.bg-Green { 
+    background-color: #9d159f40 !important;
+}
+
+.gi-1x{font-size: 1em;}
+.gi-2x{font-size: 2em;}
+.gi-3x{font-size: 3em;}
+.gi-4x{font-size: 4em;}
+.gi-5x{font-size: 5em;}
+
+.textder { text-align: right !important; }
+.textcent { text-align: center !important; }
+
+.text-justify { text-align: justify !important; }
+
+h1 span {  font-size: 36px !important; font-weight: 500 !important; }
+h2 span {  font-size: 26px !important; font-weight: 500 !important; }
+h3 span {  font-size: 18px !important; font-weight: 500 !important; }
+
+.fonsi46  {  font-size: 46px !important;  }
+.fonsi36  {  font-size: 36px !important;  }
+.fonsi30  {  font-size: 30px !important;  }
+.fonsi28  {  font-size: 28px !important;  }
+.fonsi26  {  font-size: 26px !important;  }
+.fonsi24  {  font-size: 24px !important;  }
+.fonsi23  {  font-size: 23px !important;  }
+.fonsi20  {  font-size: 20px !important;  }
+.fonsi18  {  font-size: 18px !important;  }
+.fonsi16  {  font-size: 16px !important;  }
+.fonsi15  {  font-size: 15px !important;  }
+.fonsi14  {  font-size: 14px !important;  }
+.fonsi13  {  font-size: 13px !important;  }
+.fonsi12  {  font-size: 12px !important;  }
+.fonsi11  {  font-size: 11px !important;  }
+.fonsi10  {  font-size: 10px !important;  }
+
+a.nav-link {
+    font-size: 16px !important;  
+    border-bottom: 2px solid none !important;
+    margin-right:  3px !important;
+    padding: 8px !important;   
+}
+
+a.nav-link:hover {
+    color: #a8a8ac !important;
+    background-color: #7777776b !important;
+    border-radius: 3px !important;
+    border-bottom: 2px solid white !important;    
+    padding: 8px !important;   
+    font-size: 16px !important;   
+}
+
+li.active a {
+    background-color: #80808070 !important;  
+    border-radius: 3px !important;
+    padding: 8px !important;   
+    border-bottom: 2px solid grey !important;
+    font-size: 16px !important;
+}
+
+a {
+    color: #e7364d !important;
+}
+
+a:hover {
+    color: #bfb9b9 !important;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+.padtopbo150 { padding-top: 150px !important; padding-bottom: 150px !important; }
+.padtopbo100 { padding-top: 100px !important; padding-bottom: 100px !important; }
+.padtopbo80 { padding-top: 80px !important; padding-bottom: 80px !important; }
+.padtopbo50 { padding-top: 50px !important; padding-bottom: 50px !important; }
+.padtopbo40 { padding-top: 40px !important; padding-bottom: 40px !important; }
+.padtopbo30 { padding-top: 30px !important; padding-bottom: 30px !important; }
+.padtopbo10 { padding-top: 10px !important; padding-bottom: 10px !important; }
+
+.martopbo150 { margin-top: 150px !important; margin-bottom: 150px !important; }
+.martopbo100 { margin-top: 100px !important; margin-bottom: 100px !important; }
+.martopbo70 { margin-top: 70px; margin-bottom: 70px; }
+.martopbo50 { margin-top: 50px; margin-bottom: 50px; }
+.martopbo30 { margin-top: 30px; margin-bottom: 30px; }
+.martopbo20 { margin-top: 20px; margin-bottom: 20px; }
+.martopbo10 { margin-top: 10px; margin-bottom: 10px; }
+.martopbo5 { margin-top: 5px; margin-bottom: 5px; }
+
+.mar4 { margin: 4px; }
+.mar10 { margin: 10px; }
+.mar20 { margin: 20px; }
+.mar30 { margin: 30px; }
+.mar40 { margin: 40px; }
+.mar50 { margin: 50px; }
+.mar60 { margin: 60px; }
+.mar70 { margin: 70px; }
+
+.pad4 { padding: 4px; }
+.pad6 { padding: 6px; }
+.pad10 { padding: 10px; }
+.pad20 { padding: 20px; }
+.pad30 { padding: 30px; }
+.pad40 { padding: 40px; }
+.pad60 { padding: 60px; }
+.pad80 { padding: 80px; }
+.pad110 { padding: 110px; }
+
+.fonbla { color: white !important; }
+
+
+
