@@ -1,7 +1,7 @@
     $(document).ready(function() {
-        $( ".nav-item" ).bind( "click", function(event) {
+        $( ".nav-link" ).bind( "click", function(event) {
             var clickedItem = $( this );
-            $( ".nav-item" ).each( function() {
+            $( ".nav-link" ).each( function() {
                 $( this ).removeClass( "active" );
             });
             clickedItem.addClass( "active" );
