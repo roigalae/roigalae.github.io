@@ -100,24 +100,24 @@ a:active { text-decoration: none; }
 .martopbo10 { margin-top: 10px; margin-bottom: 10px; }
 .martopbo5 { margin-top: 5px; margin-bottom: 5px; }
 
-.mar4 { margin: 4px; }
-.mar10 { margin: 10px; }
-.mar20 { margin: 20px; }
-.mar30 { margin: 30px; }
-.mar40 { margin: 40px; }
-.mar50 { margin: 50px; }
-.mar60 { margin: 60px; }
-.mar70 { margin: 70px; }
+.mar4 { margin: 4px !important;  }
+.mar10 { margin: 10px !important;  }
+.mar20 { margin: 20px !important;  }
+.mar30 { margin: 30px !important;  }
+.mar40 { margin: 40px !important;  }
+.mar50 { margin: 50px !important;  }
+.mar60 { margin: 60px !important;  }
+.mar70 { margin: 70px !important;  }
 
-.pad4 { padding: 4px; }
-.pad6 { padding: 6px; }
-.pad10 { padding: 10px; }
-.pad20 { padding: 20px; }
-.pad30 { padding: 30px; }
-.pad40 { padding: 40px; }
-.pad60 { padding: 60px; }
-.pad80 { padding: 80px; }
-.pad110 { padding: 110px; }
+.pad4 { padding: 4px !important;  }
+.pad6 { padding: 6px !important;  }
+.pad10 { padding: 10px !important;  }
+.pad20 { padding: 20px !important;  }
+.pad30 { padding: 30px !important;  }
+.pad40 { padding: 40px !important;  }
+.pad60 { padding: 60px !important;  }
+.pad80 { padding: 80px !important;  }
+.pad110 { padding: 110px !important;  }
 
 .fonbla { color: white !important; }
 
