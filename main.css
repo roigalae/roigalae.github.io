@@ -36,6 +36,7 @@ h3 span {  font-size: 18px !important; font-weight: 500 !important; }
 .fonsi26  {  font-size: 26px !important;  }
 .fonsi24  {  font-size: 24px !important;  }
 .fonsi23  {  font-size: 23px !important;  }
+.fonsi22  {  font-size: 22px !important;  }
 .fonsi20  {  font-size: 20px !important;  }
 .fonsi18  {  font-size: 18px !important;  }
 .fonsi16  {  font-size: 16px !important;  }
@@ -102,6 +103,7 @@ a:active { text-decoration: none; }
 
 .mar4 { margin: 4px !important;  }
 .mar10 { margin: 10px !important;  }
+.mar15 { margin: 15px !important;  }
 .mar20 { margin: 20px !important;  }
 .mar30 { margin: 30px !important;  }
 .mar40 { margin: 40px !important;  }
@@ -112,6 +114,7 @@ a:active { text-decoration: none; }
 .pad4 { padding: 4px !important;  }
 .pad6 { padding: 6px !important;  }
 .pad10 { padding: 10px !important;  }
+.pad15 { padding: 15px !important;  }
 .pad20 { padding: 20px !important;  }
 .pad30 { padding: 30px !important;  }
 .pad40 { padding: 40px !important;  }
