@@ -124,9 +124,14 @@ a:active { text-decoration: none; }
 
 .fonbla { color: white !important; }
 
+.lb-details {
+    font: 16px !important; 
+}
+
 .lb-data .lb-close {
     position: absolute !important;
     top: -50px !important;
     margin-right: -50px !important;
+
 }
 
