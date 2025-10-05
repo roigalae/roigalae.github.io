@@ -2,11 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://roigalae.github.io/index.html</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://roigalae.github.io/links.html</loc>
-    <lastmod>2025-09-30</lastmod>
+    <lastmod>2025-10-05</lastmod>
   </url>
 </urlset>
-
