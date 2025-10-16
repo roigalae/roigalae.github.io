@@ -135,9 +135,3 @@ a:active { text-decoration: none; }
 .lb-number {
     font-size: 16px !important;
 }
-
-.lb-data .lb-close {
-    position: absolute !important;
-    top: -28px !important;
-    margin-left: 441px !important;
-}
