@@ -6,38 +6,21 @@ body {
     color: #f5f6f7 !important; 
     background-repeat: repeat !important; 
     background-image: url("./shat.gif") !important; 
-    background-position: top left !important; 
+    background-position: top left !important;
 
-    -webkit-animation: fadein 3s; 
-       -moz-animation: fadein 3s; 
-        -ms-animation: fadein 3s;
-         -o-animation: fadein 3s; 
-            animation: fadein 3s;        
+    animation: 2.5s fadeInUp;
 }
 
-@keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
 
-@-moz-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-
-@-webkit-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-
-@-ms-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-
-@-o-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
+@keyframes fadeInUp {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0%);
+    opacity: 1;
+  }
 }
 
 @font-face {
