@@ -7,7 +7,6 @@ body {
     background-repeat: repeat !important; 
     background-image: url("./shat.gif") !important; 
     background-position: top left !important; 
-    background-color: #47d3ff;
 
     -webkit-animation: fadein 4s; 
        -moz-animation: fadein 4s; 
