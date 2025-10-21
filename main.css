@@ -9,11 +9,11 @@ body {
     background-position: top left !important; 
     background-color: #47d3ff;
 
-    -webkit-animation: fadein 2s; 
-       -moz-animation: fadein 2s; 
-        -ms-animation: fadein 2s;
-         -o-animation: fadein 2s; 
-            animation: fadein 2s;        
+    -webkit-animation: fadein 4s; 
+       -moz-animation: fadein 4s; 
+        -ms-animation: fadein 4s;
+         -o-animation: fadein 4s; 
+            animation: fadein 4s;        
 }
 
 @keyframes fadein {
