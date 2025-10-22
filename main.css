@@ -101,9 +101,9 @@ a { color: #e7364d !important; }
 
 a:hover {
     color: #bfb9b9 !important;
-    font-size: 17px !important;   
+    font-size: 110% !important;   
     opacity: 0.4 !important;
-    transition: opacity 0.8s ease-in !important;
+    transition: opacity 0.6s ease-in !important;
 }    
 
 a:link { text-decoration: none; }
