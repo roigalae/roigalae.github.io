@@ -99,7 +99,14 @@ li a.active {
 
 a { color: #e7364d !important; }
 
-a:hover { color: #bfb9b9 !important; }
+a:hover {
+    color: #bfb9b9 !important;
+    background-color: #7777776b !important;
+    border-radius: 3px !important;
+    border-bottom: 2px solid white !important;    
+    padding: 8px !important;   
+    font-size: 16px !important;   
+}    
 
 a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
