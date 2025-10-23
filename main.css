@@ -7,6 +7,7 @@ body {
     background-repeat: repeat !important; 
     background-image: url("./shat.gif") !important; 
     background-position: top left !important;
+    background-color: black !important;
 }
 
 .fadeInUp {
