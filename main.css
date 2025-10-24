@@ -103,11 +103,10 @@ li a.active {
 a { color: #e7364d !important; }
 
 a:hover {
-    color: #bfb9b9 !important;
-    font-weight: bold;
-    opacity: 0.4 !important;
-    transition: opacity 0.6s ease-in !important;
-    transition: font-weight 0.4s ease-in !important;  
+    color: #bfb9b9 !important;  
+    font-weight: bolder;
+    opacity: 0.3 !important;
+    transition: font-weight 0.6s ease-in !important; 
 }    
 
 a:link { text-decoration: none; }
