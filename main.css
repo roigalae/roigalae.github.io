@@ -105,8 +105,8 @@ a { color: #e7364d !important; }
 a:hover {
     color: #bfb9b9 !important;  
     font-weight: bolder;
-    opacity: 0.3 !important;
-    transition: font-weight 0.6s ease-in !important; 
+    opacity: 0.2 !important;
+    transition: opacity 0.2s ease-in !important; 
 }    
 
 a:link { text-decoration: none; }
