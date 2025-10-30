@@ -2,7 +2,7 @@ html,body { height:100%; padding:0; margin:0; }
 
 body {
     font: 16px Ubuntu, sans-serif !important; 
-    line-height: 1.6 !important; 
+    line-height: 1.2 !important; 
     color: #f5f6f7 !important; 
     background-repeat: repeat !important; 
     background-image: url("./shat.gif") !important; 
@@ -11,7 +11,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6{
-    line-height: 1.8 !important; 
+    line-height: 1.4 !important; 
 }
 
 .fadeInUp {
