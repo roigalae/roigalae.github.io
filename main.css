@@ -79,7 +79,7 @@ a.nav-link:hover {
     padding: 8px !important;   
     font-weight: bolder;
     opacity: 0.1 !important;
-    transition: opacity 0.3s ease-in !important;  
+    transition: opacity 0.4s ease-in !important;  
 }
 
 li a.active {
@@ -96,7 +96,7 @@ a:hover {
     color: #bfb9b9 !important;  
     font-weight: bolder;
     opacity: 0.2 !important;
-    transition: opacity 0.2s ease-in !important; 
+    transition: opacity 0.3s ease-in !important; 
 }    
 
 a:link { text-decoration: none; }
