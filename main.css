@@ -10,7 +10,7 @@ body {
     background-color: black !important;
 }
 
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4{
     line-height: 1.5 !important; 
 }
 
@@ -31,11 +31,11 @@ h1, h2, h3, h4, h5, h6{
 
 .bg-main { background-color: #2d159f5e !important; }
 
-.gi-1x{font-size: 1em;}
-.gi-2x{font-size: 2em;}
-.gi-3x{font-size: 3em;}
-.gi-4x{font-size: 4em;}
-.gi-5x{font-size: 5em;}
+.gi-1x{font-size: 1em !important; }
+.gi-2x{font-size: 2em !important; }
+.gi-3x{font-size: 3em !important; }
+.gi-4x{font-size: 4em !important; }
+.gi-5x{font-size: 5em !important; }
 
 .textder { text-align: right !important; }
 .textcent { text-align: center !important; }
