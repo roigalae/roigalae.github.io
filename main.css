@@ -10,6 +10,11 @@ body {
     background-color: #2b2b2b !important;
 }
 
+.navbar-toggler {
+    border-color: #D3D3D3 !important;
+    color: #D3D3D3 !important;
+}
+
 h1, h2, h3, h4{
     line-height: 1.5 !important; 
 }
