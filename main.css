@@ -11,6 +11,7 @@ body {
 }
 
 .navbar-toggler {
+    background-color: #D3D3D3 !important;
     border-color: #D3D3D3 !important;
     color: #D3D3D3 !important;
 }
